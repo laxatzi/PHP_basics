@@ -7,7 +7,7 @@
 </head>
 <body>
 	<?php
-			include 'heading.html';
+			include_once 'heading.html';
 			include 'heading.html';
 	?>
 </body>
