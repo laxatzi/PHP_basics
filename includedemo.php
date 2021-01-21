@@ -8,7 +8,7 @@
 <body>
 	<?php
 			include_once 'heading.html';
-			include 'heading.html';
+			include_once 'heading.html';
 	?>
 </body>
 </html>
