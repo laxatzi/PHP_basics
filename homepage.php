@@ -7,7 +7,7 @@
 </head>
 <body>
 	<?php
-			include 'heading.html';
+			require 'headling.html';
 	?>
 </body>
 </html>
