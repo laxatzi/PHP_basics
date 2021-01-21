@@ -7,7 +7,10 @@
 </head>
 <body>
 	<?php
-			require 'headling.html';
+			define("GREETING", "Hi");
+			echo GREETING." John!";
+			define("GREETING", "Hello");
+			echo GREETING." John!";
 	?>
 </body>
 </html>

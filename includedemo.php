@@ -1,3 +1,7 @@
+
+	<?php
+				header('Location: heading.html');
+	?>
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -6,9 +10,6 @@
 	<title>Demo</title>
 </head>
 <body>
-	<?php
-			include_once 'heading.html';
-			include_once 'heading.html';
-	?>
+
 </body>
 </html>
