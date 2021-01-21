@@ -7,7 +7,8 @@
 </head>
 <body>
 	<?php
-			include 'headling.html';
+			include 'heading.html';
+			include 'heading.html';
 	?>
 </body>
 </html>
