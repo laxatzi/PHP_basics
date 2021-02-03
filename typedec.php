@@ -6,4 +6,4 @@
 				return $num1 + $num2 + $num3;
 			}
 
-			echo addNumbers('4.5', '5', '11');
+			echo addNumbers('4', '5', '11');
