@@ -25,8 +25,8 @@
 	</style>
 </head>
 <body>
-	<section id="list">
-	
-	</section>
+	<?php
+		include 'heading.html';
+	?>
 </body>
 </html>
